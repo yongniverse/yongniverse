@@ -12,4 +12,6 @@
 
 ## 🖥️ 기술 블로그
 - [개인 블로그](https://yongniverse.tistory.com)
+
+## Github
 ![GitHub 커밋 그래프](https://ghchart.rshah.org/yongniverse)

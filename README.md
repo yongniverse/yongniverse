@@ -1,16 +1,15 @@
-## Hi there 👋
+# Yongwon Jo
 
-<!--
-**yongniverse/yongniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 경력
+- [퍼스트알앤디] java spring 풀스택 개발
+- [대한민국공군] 전산장비정비병
+- [에잇스니핏] php 인턴
 
-Here are some ideas to get you started:
+## 📜 자격증
+- 정보처리기사 (2024.12)
+- SQL 개발자 (2024.3)
+- 사무자동화산업기사 (2024.5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ 기술 블로그
+- [개인 블로그](https://yongniverse.tistory.com)
+![GitHub 커밋 그래프](https://ghchart.rshah.org/yongniverse)

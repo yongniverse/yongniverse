@@ -1,8 +1,8 @@
 # Yongwon Jo
 
 ## 🚀 Experience
-- [8snippet] PHP Intern (2025.04 ~ Present)
-- [17비행단] 전산장비정비병 (2023.03 ~ 2024.12)
+- [8snippet] 인턴십 (2025.04 ~ )
+- [17전투비행단] 전산장비정비병 (2023.03 ~ 2024.12)
 - [퍼스트알앤디] java spring 풀스택 개발 (2022.06 ~ 2023.02)
 
 ## 📜 Certifications
